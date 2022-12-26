@@ -1,7 +1,7 @@
 
 
 body{
-    background-image: url(/dp-3.jpg);
+    background-image: url(dp-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -55,6 +55,3 @@ img:hover{
     font-style: italic;
     text-decoration: underline;
 }
-
-
-
