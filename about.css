@@ -5,7 +5,7 @@
 }
 body{
     height: 100vh;
-    background-image: url(/dp-2.jpg);
+    background-image: url(dp-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top right;
@@ -30,6 +30,3 @@ body{
     background-color: rgba(0, 0, 0, 0.604);
     
 }
-
-
-
